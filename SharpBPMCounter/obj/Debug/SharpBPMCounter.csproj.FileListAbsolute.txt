@@ -1,0 +1,9 @@
+C:\Users\Brian_2\source\repos\SharpBPMCounter\SharpBPMCounter\bin\Debug\SharpBPMCounter.exe
+C:\Users\Brian_2\source\repos\SharpBPMCounter\SharpBPMCounter\bin\Debug\SharpBPMCounter.pdb
+C:\Users\Brian_2\source\repos\SharpBPMCounter\SharpBPMCounter\obj\Debug\SharpBPMCounter.csprojResolveAssemblyReference.cache
+C:\Users\Brian_2\source\repos\SharpBPMCounter\SharpBPMCounter\obj\Debug\SharpBPMCounter.Form1.resources
+C:\Users\Brian_2\source\repos\SharpBPMCounter\SharpBPMCounter\obj\Debug\SharpBPMCounter.Properties.Resources.resources
+C:\Users\Brian_2\source\repos\SharpBPMCounter\SharpBPMCounter\obj\Debug\SharpBPMCounter.csproj.GenerateResource.Cache
+C:\Users\Brian_2\source\repos\SharpBPMCounter\SharpBPMCounter\obj\Debug\SharpBPMCounter.csproj.CoreCompileInputs.cache
+C:\Users\Brian_2\source\repos\SharpBPMCounter\SharpBPMCounter\obj\Debug\SharpBPMCounter.exe
+C:\Users\Brian_2\source\repos\SharpBPMCounter\SharpBPMCounter\obj\Debug\SharpBPMCounter.pdb
